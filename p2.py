@@ -13,3 +13,11 @@ if password == password:
     print("entered correct password")
 else:
     print("entered incorrect password")
+
+
+
+age=int(input("enter the name: "))
+if age>17:
+    print("man or wommen is eligibile to vote")
+else:
+    print("not elgibile for vote")
