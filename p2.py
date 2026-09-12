@@ -21,3 +21,7 @@ if age>17:
     print("man or wommen is eligibile to vote")
 else:
     print("not elgibile for vote")
+
+
+
+
