@@ -7,3 +7,9 @@ print(str1)
 
 name="hello world"
 print(name)
+
+password="sandeep"
+if password == password:
+    print("entered correct password")
+else:
+    print("entered incorrect password")
